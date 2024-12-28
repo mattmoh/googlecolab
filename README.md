@@ -1,5 +1,5 @@
 ## Google Colab Space
-I wrote the following tiny scripts to be ran in a python notebooks:
+I wrote the following tiny scripts to be ran in python notebooks:
 
 - [Combine PDF Notebook](#combine-pdf-notebook)
 - [Base64 Image Encoder](#base64-image-encoder)
